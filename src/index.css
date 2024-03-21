@@ -1,0 +1,10 @@
+body {
+  background-image: url("./assets/BG-image.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}

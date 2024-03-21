@@ -1,0 +1,18 @@
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 20px;
+  column-gap: 10px;
+  justify-content: center;
+  align-items: center;
+  z-index: 3;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.progress-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1rem;
+}
